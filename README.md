@@ -25,3 +25,7 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
     * Recall of 91.64%
 
 #
+
+## Certifications
+
+[Google Advanced Analytics](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Google%20Advanced%20Analytics.pdf)
