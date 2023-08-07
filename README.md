@@ -7,7 +7,9 @@ If you enjoyed what you saw, want to have a chat with me about the portfolio, wo
 Email: Sebastian.Tock@gmail.com
 Linkedin: [SebastianTock](https://www.linkedin.com/in/sebastiantock/)
 
-## Contents
+## Projects
+
+#
 
 #### [Credit Card Fraud || Dealing with Imbalanced Datasets](https://github.com/SebastianTock/Credit_Card_Fraud/tree/main)
 
@@ -22,3 +24,4 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
     * Accuracy score of 94.51%
     * Recall of 91.64%
 
+#
