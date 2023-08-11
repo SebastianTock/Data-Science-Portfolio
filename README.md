@@ -24,6 +24,11 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
 
 #
 
+#### [ST2195 Programming for Data Science Coursework](https://github.com/SebastianTock/ST2195_Coursework)
+
+This project was done as my coursework for my degree in data science. I analysed the Airline on-time data from the 2009 ASA Statistical Computing and Graphics Data Expo. Due to its large size, the analysis was done only on a subset of consecutive years ranging from 2006 to 2007, the analysis is supplemented by the planes-data available together with the data.
+
+
 ## Certifications
 
 [Google Advanced Analytics](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Google%20Advanced%20Analytics.pdf)
