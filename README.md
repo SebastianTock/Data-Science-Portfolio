@@ -9,8 +9,6 @@ Linkedin: [SebastianTock](https://www.linkedin.com/in/sebastiantock/)
 
 ## Projects
 
-#
-
 #### [Credit Card Fraud || Dealing with Imbalanced Datasets](https://github.com/SebastianTock/Credit_Card_Fraud/tree/main)
 
 Created 3 Logistic Regression models, one using the imbalanced dataset, the others are using undersampled and oversampled datasets.
@@ -29,3 +27,5 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
 ## Certifications
 
 [Google Advanced Analytics](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Google%20Advanced%20Analytics.pdf)
+
+[Python for Data Science and Machine Learning Bootcamp](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
