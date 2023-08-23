@@ -14,6 +14,8 @@ If you enjoyed what you saw, want to have a chat with me about the portfolio, wo
 
 This project is an replication of what I did during my internship, made specifically to reduced time taken for copy-pasting lines of text from Outlook into Excel
 
+#
+
 #### [Credit Card Fraud || Dealing with Imbalanced Datasets](https://github.com/SebastianTock/Credit_Card_Fraud/tree/main)
 
 Created 3 Logistic Regression models, one using the imbalanced dataset, the others are using undersampled and oversampled datasets.
