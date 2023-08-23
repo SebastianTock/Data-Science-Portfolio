@@ -4,10 +4,15 @@ This Repository contains all of my Data Science and Analytics projects I have do
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
 
-Email: Sebastian.Tock@gmail.com
-Linkedin: [SebastianTock](https://www.linkedin.com/in/sebastiantock/)
+- Email: Sebastian.Tock@gmail.com
+
+- Linkedin: [SebastianTock](https://www.linkedin.com/in/sebastiantock/)
 
 ## Projects
+
+#### [Email Paser](https://github.com/SebastianTock/Email_Parser/tree/main)
+
+This project is an replication of what I did during my internship, made specifically to reduced time taken for copy-pasting lines of text from Outlook into Excel
 
 #### [Credit Card Fraud || Dealing with Imbalanced Datasets](https://github.com/SebastianTock/Credit_Card_Fraud/tree/main)
 
@@ -34,3 +39,5 @@ This project was done as my coursework for my degree in data science. I analysed
 [Google Advanced Analytics](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Google%20Advanced%20Analytics.pdf)
 
 [Python for Data Science and Machine Learning Bootcamp](https://github.com/SebastianTock/Portfolio/blob/main/Certifications/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
+
+[Excel Skills for Business](https://github.com/SebastianTock/Data-Science-Portfolio/blob/main/Certifications/Excel%20for%20Business.pdf)
