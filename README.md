@@ -23,11 +23,15 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
     * Accuracy score of 94.51%
     * Recall of 91.64%
 
+#
+
 ## Personal Projects
 
 #### [Email Paser](https://github.com/SebastianTock/Email_Parser/tree/main)
 
 This project is an replication of what I did during my internship, made specifically to reduced time taken for copy-pasting lines of text from Outlook into Excel
+
+#
 
 ## Educational Projects
 
@@ -35,18 +39,17 @@ This project is an replication of what I did during my internship, made specific
 
 Predicting Student Dropouts
 
-#
 
 #### [ST2187 Business Analytics, Applied Modelling and Prediction Coursework](https://github.com/SebastianTock/ST2187_Coursework/tree/main)
 
 The objective of this is project to disseminate the key findings from the RFM (Recency, Frequency, Monetary) analysis I carried out with Tableau.
 
-#
 
 #### [ST2195 Programming for Data Science Coursework](https://github.com/SebastianTock/ST2195_Coursework)
 
 Analysing the Airline on-time data from the 2009 ASA Statistical Computing and Graphics Data Expo.
 
+#
 
 ## Certifications
 
