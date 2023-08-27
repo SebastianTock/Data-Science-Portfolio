@@ -8,13 +8,7 @@ If you enjoyed what you saw, want to have a chat with me about the portfolio, wo
 
 - Linkedin: [SebastianTock](https://www.linkedin.com/in/sebastiantock/)
 
-## Projects
-
-#### [Email Paser](https://github.com/SebastianTock/Email_Parser/tree/main)
-
-This project is an replication of what I did during my internship, made specifically to reduced time taken for copy-pasting lines of text from Outlook into Excel
-
-#
+## Data Science Projects
 
 #### [Credit Card Fraud || Dealing with Imbalanced Datasets](https://github.com/SebastianTock/Credit_Card_Fraud/tree/main)
 
@@ -29,17 +23,29 @@ Created 3 Logistic Regression models, one using the imbalanced dataset, the othe
     * Accuracy score of 94.51%
     * Recall of 91.64%
 
+## Personal Projects
+
+#### [Email Paser](https://github.com/SebastianTock/Email_Parser/tree/main)
+
+This project is an replication of what I did during my internship, made specifically to reduced time taken for copy-pasting lines of text from Outlook into Excel
+
+## Educational Projects
+
+#### [ST3189 Machine Learning Coursework](https://github.com/SebastianTock/ST3189_Coursework)
+
+Predicting Student Dropouts
+
 #
 
 #### [ST2187 Business Analytics, Applied Modelling and Prediction Coursework](https://github.com/SebastianTock/ST2187_Coursework/tree/main)
 
-This project was done as my coursework for my degree in data science. The objective of this is project to disseminate the key findings from the RFM (Recency, Frequency, Monetary) analysis I carried out with Tableau.
+The objective of this is project to disseminate the key findings from the RFM (Recency, Frequency, Monetary) analysis I carried out with Tableau.
 
 #
 
 #### [ST2195 Programming for Data Science Coursework](https://github.com/SebastianTock/ST2195_Coursework)
 
-This project was done as my coursework for my degree in data science. I analysed the Airline on-time data from the 2009 ASA Statistical Computing and Graphics Data Expo. Due to its large size, the analysis was done only on a subset of consecutive years ranging from 2006 to 2007, the analysis is supplemented by the planes-data available together with the data.
+Analysing the Airline on-time data from the 2009 ASA Statistical Computing and Graphics Data Expo.
 
 
 ## Certifications
